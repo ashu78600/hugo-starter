@@ -1,5 +1,5 @@
 ### Hugo Starter theme
-  *archetypes :- template for content file generation
+  >archetypes :- template for content file generation
                 1. use `hugo new about.md`
   *layout :- contains all layout files for website
   *content :- markdown files for content
