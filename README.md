@@ -5,11 +5,13 @@
   * layout
       * contains all layout files for website
   * content 
-      * markdown files for content
+      * contains markdown files for content
   * data 
     * local database. Keep json,xml files here
   * config.toml 
       * configuration file. Varibales in it are site varibale and can be accesed in layout 
   * assets
       * keep your all css into main.css inside this folder
+      * keep js file also here
+      
              
